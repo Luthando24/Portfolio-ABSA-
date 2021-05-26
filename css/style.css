@@ -1,0 +1,24 @@
+
+html,body{ 
+	width:100%;
+	height:100%;
+	background:#24252A;
+}
+
+body{
+  font:normal 75% Arial, Helvetica, sans-serif;
+}
+#stats{
+  border-radius: 3px 3px 0 0;
+  overflow: hidden;
+}
+
+.count-particles{
+  border-radius: 0 0 3px 3px;
+}
+#particles-js{
+  width: 100%;
+  height: 100%;
+  background-color:rgba(47, 49, 47, 0.8);
+  
+}
